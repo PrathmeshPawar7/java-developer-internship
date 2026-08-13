@@ -75,8 +75,4 @@ New session high score!
 Play again? (y/n):
 ```
 
-## Possible Enhancements (good to mention in an interview)
-- Persist high scores to a file/database between sessions
-- Add a GUI version using JavaFX/Swing
-- Add a timer-based challenge mode
-- Convert to a Spring Boot REST API version (guess submitted via HTTP endpoint)
+
